@@ -3,7 +3,7 @@
 Sitio web personal de presentación como **Analista de Sistemas / Analista Funcional Junior**.
 Una página estática, liviana y responsive que resume mi perfil, experiencia, aptitudes y formación.
 
-🔗 **Ver en vivo:** [julianmurno.github.io](https://julianmurno.github.io/sitioweb/)
+🔗 **Ver en vivo:** [julianmurno.github.io/website](https://julianmurno.github.io/website/)
 
 ---
 
