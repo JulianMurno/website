@@ -47,8 +47,8 @@ No requiere instalación ni build. Basta con clonar el repositorio y abrir `inde
 en el navegador:
 
 ```bash
-git clone https://github.com/julianmurno/julianmurno.github.io.git
-cd julianmurno.github.io
+git clone https://github.com/julianmurno/julianmurno.github.io.git/website
+cd julianmurno.github.io/index.html
 # abrir index.html en el navegador
 ```
 
